@@ -1,0 +1,41 @@
+table {
+  display: inline-table;
+  font-family: 'Times New Roman', Times, serif;
+  width: 68%;
+  outline: 1px solid black;
+}
+
+td {
+  text-align: left;
+  padding: 2px;
+  width: 33%;
+  background-color: unset;
+}
+
+th {
+  text-align: center;
+  padding: 2px;
+  width: 30%;
+}
+
+tr {
+  background-color: coral;
+}
+
+#warna{
+  background-color: rgb(155, 155, 155);
+}
+
+#jam{
+  float: left;
+  margin-left: 20%;
+}
+
+#hitung{
+  float: right;
+  margin-right: 20%;
+}
+
+#a{
+  background-color: unset;
+}
